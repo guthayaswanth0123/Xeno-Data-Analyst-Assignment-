@@ -1,0 +1,8 @@
+id,merchant_id,parent_id,name,creation_status,processing_status
+9001,501,,Diwali Cart Recovery - Wave 1,approved,processed
+9002,501,9001,Diwali Cart Recovery - Retry A,approved,processed
+9003,501,9002,Diwali Cart Recovery - Retry B,approved,processed
+9004,501,9001,Diwali Cart Recovery - Retry C (pending),approval_awaiting,processed
+9101,501,,Diwali Flash Sale - Standalone,approved,processed
+9201,501,,Diwali Wave 2,approved,processed
+9202,501,9201,Diwali Wave 2 - Retry,approved,processed
